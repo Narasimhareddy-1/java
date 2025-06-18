@@ -64,23 +64,12 @@ This project is a console-based **Bank Account Management System** implemented i
 
 ---
 
-### 🌐 JavaScript Version
-
-1. You can run it directly in browser developer console or use Node.js.
-2. Example (Node.js):
-
-   ```bash
-   node bankSystem.js
-   ```
-
----
 
 ## 🗃️ File Structure
 
 ```
 📁 bank-account-system/
 ├── BankSystem.java        # Main Java program
-├── bankSystem.js          # JavaScript console version
 └── README.md              # Project documentation
 ```
 
